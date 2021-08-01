@@ -113,7 +113,8 @@ inurl:control/camerainfo
 
   
 
-  ![61e5f51e-cca0-4d0b-9f11-0d67102cb6a5.png](Breaking Into Your Building_files/61e5f51e-cca0-4d0b-9f11-0d67102cb6a5.png)
+   ![image](https://user-images.githubusercontent.com/48357278/127758858-76667394-8b04-4b8b-aba8-42f68fa1eb61.png)
+
 
 2. ### 拍摄工具
 
